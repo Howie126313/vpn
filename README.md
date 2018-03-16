@@ -1,6 +1,7 @@
 作为一个程序员，科学上网总是需要的。毕竟有个梗，百度的程序员都在用谷歌查东西。一下的教程是使用谷歌云注册时，会免费赠送 $300 的体验金，有效期一年。这也意味着你可以免费用一年，而且看 youtobe 上4K 2160P 画质无卡顿。
 
 ##Get Started:
+
 首先，额~~你现在就能科学上网，有一个 google 账号。最最最重要要有一张信用卡!!!（visa、jcb、美国运通）,没有就没办法了。
 XX云网址：https://cloud.google.com/
 
@@ -30,9 +31,13 @@ ok,到这里为止，我们已经有了一台自己的服务器，现在要做�
 安装成功后，记得执行启动命令```/etc/init.d/shadowsocks start```,开启 ss。服务期端的 ss 就安装完成了。
 
 来搞定自己电脑端的代理，电脑端设置代理软件填上相应的 IP 、端口和加密方式及密码就可以实现。下面以 mac 上的 ss 为例。
+
 ![](http://upload-images.jianshu.io/upload_images/8610628-b0fd877f3babd8e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 点击服务器设置，进行相关设置。添加完成后点击确定，点击启用 shadowsocks 。
 这样就搞定了，去享受一下4K画质的外网视频吧。
+
 ![](http://upload-images.jianshu.io/upload_images/8610628-831b98ada81afa1a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 以下为电脑端 ss 的下载链接：
