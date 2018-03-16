@@ -36,5 +36,7 @@ ok,到这里为止，我们已经有了一台自己的服务器，现在要做�
 ![](http://upload-images.jianshu.io/upload_images/8610628-831b98ada81afa1a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 以下为电脑端 ss 的下载链接：
+
 os：链接:https://pan.baidu.com/s/1lvsaQQp4ah936bF4tLUp2w  密码:v4k5
+
 windows：链接:https://pan.baidu.com/s/1FlmtJsC5rqITaN4TpzIQzQ  密码:cvk5
